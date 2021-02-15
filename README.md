@@ -1,4 +1,5 @@
 ### Hi there 👋
+I love web-dev and DSA.
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Sethuram52001&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethuram52001&layout=compact&theme=tokyonight" alt="languages" height="165">
