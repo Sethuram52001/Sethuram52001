@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sethuram52001&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethuram52001&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
 
 <!--
 **Sethuram52001/Sethuram52001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
